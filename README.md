@@ -9,6 +9,7 @@
 * [User Manual](#user-manual)
 * [Resources](#resources)
 * [Developers](#developers)
+* [Wiki Pages](https://github.com/DIT112-V20/group-06/wiki)
 
 ## Description 
 DJ SmartCar is a dancing SmartCar controlled by an app that can also play music via Spotify. During these “unprecedented times” we wanted to develop a product that is fun and entertaining, while also showing off the capabilities of the SmartCar. When using our product, the user can choose between two modes: *Dance without Music* or *Dance with Music*. In *Dance without Music*, the user can make the car dance by choosing from four pre-programmed dance moves or a randomized sequence of these moves. In *Dance with Music*, the user connects to Spotify and the car will dance in a randomized sequence to the average tempo of the currently playing track. The car’s speed will change based on the tempo of the current track.
